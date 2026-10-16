@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Shroudfire is a Counter-Strike 2 mod where invisible, knife-wielding Invisant hunt armed Armitive. Players rotate between roles, earning separate XP, levels, and upgrade points for each. Master both sides and climb the ranks.">
+    <title>Shroudfire</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #f8fafc;
+            color: #334155;
+            text-align: center;
+        }
+        .container {
+            width: 100%;
+            max-width: 664px;
+            padding: 2rem;
+        }
+        h1 {
+            margin: 0 0 1.5rem;
+        }
+        .banner {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+        p {
+            margin: 0 0 1.5rem;
+            font-size: 1.1rem;
+            line-height: 1.6;
+            color: #475569;
+        }
+        nav a {
+            display: inline-block;
+            min-height: 44px;
+            margin: 0.5rem;
+            padding: 0.75rem 1rem;
+            background-color: #4f46e5;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 500;
+            font-size: 0.88rem;
+            line-height: 1.4;
+            transition: background-color 0.2s ease-in-out;
+        }
+        nav a:hover {
+            background-color: #4338ca;
+        }
+        nav a:focus-visible {
+            outline: 3px solid #334155;
+            outline-offset: 3px;
+        }
+        @media (max-width: 480px) {
+            .container {
+                padding: 1.5rem;
+            }
+        }
+        @media (prefers-reduced-motion: reduce) {
+            nav a {
+                transition: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main class="container">
+        <h1>
+            <img src="shroudfire.png" alt="Shroudfire" class="banner" width="1536" height="1024">
+        </h1>
+        <p>Shroudfire is a Counter-Strike 2 mod where invisible, knife-wielding Invisant hunt armed Armitive. Players rotate between roles, earning separate XP, levels, and upgrade points for each. Master both sides and climb the ranks.</p>
+        <nav aria-label="Shroudfire links">
+            <div>
+                <a href="steam://connect/cs2.shroudfire.com">Connect to Server</a>
+            </div>
+            <div>
+                <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3819056800" target="_blank" rel="noopener noreferrer">Workshop Addon</a>
+            </div>
+            <div>
+                <a href="https://discord.gg/TMV2DEPhqT" target="_blank" rel="noopener noreferrer">Discord Server</a>
+            </div>
+        </nav>
+    </main>
+</body>
+</html>
