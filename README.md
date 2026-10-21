@@ -6,7 +6,7 @@ Shroudfire is an asymmetric combat mode: invisible **Invisant** hunt **Armitive*
 
 ## Game editions
 
-- [Shroudfire for Counter-Strike S2](https://github.com/TheGlefs/Shroudfire-CS2) - The native C++ MetaMod:Source plugin for Counter-Strike 2.
+- [Shroudfire for Counter-Strike 2](https://github.com/TheGlefs/Shroudfire-CS2) - The native C++ MetaMod:Source plugin for Counter-Strike 2.
 - [Shroudfire for Counter-Strike: Source](https://github.com/TheGlefs/Shroudfire-CSS) - The SourceMod plugin for Counter-Strike: Source.
 
 Visit the game repositories for downloads, installation instructions, gameplay guides, upgrade details, server settings, and source code.
