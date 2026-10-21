@@ -2,7 +2,7 @@
 
 This repository contains the website for [shroudfire.com](https://shroudfire.com), the home of Shroudfire for Counter-Strike 2 and Counter-Strike: Source.
 
-Shroudfire is an asymmetric combat mode: invisible **Invisant** hunt **Armitive**, who fight back with firearms or survive until time runs out. Roles rotate each round, with separate persistent XP, levels, and upgrades for each role.
+Shroudfire is an asymmetric combat mode: **Invisant** (*invisible assailants*) hunt with invisibility and knives, while **Armitive** (*armed fugitives*) fight back with firearms or survive until time runs out. Roles rotate each round, and progression persists between sessions.
 
 ## Game editions
 
