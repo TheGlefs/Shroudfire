@@ -29,5 +29,3 @@ Join the [Shroudfire Discord](https://discord.gg/TMV2DEPhqT) for community discu
 | [shroudfire.png](shroudfire.png) | Shroudfire banner. |
 | [CNAME](CNAME) | Custom domain: `shroudfire.com`. |
 | [.nojekyll](.nojekyll) | Static-site marker for GitHub Pages. |
-
-The website uses plain HTML and CSS with no build step. Edit `index.html` and open it in a browser to preview changes. Keep `CNAME` set to `shroudfire.com` when updating the site.
